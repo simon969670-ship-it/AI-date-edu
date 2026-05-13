@@ -1,1 +1,1 @@
-# AI-date-
+# AI-date-github 학습용 
